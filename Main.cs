@@ -1,8 +1,4 @@
-﻿/*
- * 
- * Name:Ibrhaim Fureje
- * Cit221772
- */
+﻿
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
